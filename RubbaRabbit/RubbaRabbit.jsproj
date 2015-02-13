@@ -68,6 +68,7 @@
     <Content Include="game-media\level1.js" />
     <Content Include="game-media\level2.js" />
     <Content Include="game-media\level3.js" />
+    <Content Include="game-media\level4.js" />
     <Content Include="game-media\msgbox.png" />
     <Content Include="game-media\music.mp3" />
     <Content Include="game-media\parallax.png" />
