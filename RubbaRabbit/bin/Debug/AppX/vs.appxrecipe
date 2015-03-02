@@ -98,7 +98,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\player.png">
       <PackagePath>game-media\player.png</PackagePath>
-      <Modified>2015-02-11T21:24:09.871</Modified>
+      <Modified>2015-02-16T20:16:32.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\tiles.png">
       <PackagePath>game-media\tiles.png</PackagePath>
@@ -444,19 +444,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\level1.js">
       <PackagePath>game-media\level1.js</PackagePath>
-      <Modified>2015-02-11T21:51:02.308</Modified>
+      <Modified>2015-03-02T19:35:31.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\level2.js">
       <PackagePath>game-media\level2.js</PackagePath>
-      <Modified>2015-02-11T21:51:02.423</Modified>
+      <Modified>2015-03-02T19:35:31.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\level3.js">
       <PackagePath>game-media\level3.js</PackagePath>
-      <Modified>2015-02-11T21:51:02.541</Modified>
+      <Modified>2015-03-02T19:35:31.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\level4.js">
       <PackagePath>game-media\level4.js</PackagePath>
-      <Modified>2015-02-11T21:51:02.582</Modified>
+      <Modified>2015-03-02T19:35:31.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\js\default.js">
       <PackagePath>js\default.js</PackagePath>
@@ -464,7 +464,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\js\ludus.js">
       <PackagePath>js\ludus.js</PackagePath>
-      <Modified>2015-02-11T21:25:57.264</Modified>
+      <Modified>2015-03-02T19:34:28.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\js\howler.js">
       <PackagePath>js\howler.js</PackagePath>
