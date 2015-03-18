@@ -52,6 +52,9 @@
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\button-up.png">
       <PackagePath>game-media\button-up.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\dragon.png">
+      <PackagePath>game-media\dragon.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\enemies.png">
       <PackagePath>game-media\enemies.png</PackagePath>
     </AppxPackagedFile>
@@ -73,11 +76,17 @@
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\player.png">
       <PackagePath>game-media\player.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\pterodactyl.png">
+      <PackagePath>game-media\pterodactyl.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\tiles.png">
       <PackagePath>game-media\tiles.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\titlescreen.png">
       <PackagePath>game-media\titlescreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\trex.png">
+      <PackagePath>game-media\trex.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\images\badge.scale-100.png">
       <PackagePath>images\badge.scale-100.png</PackagePath>

@@ -60,6 +60,7 @@
     <Content Include="game-media\button-right.png" />
     <Content Include="game-media\button-up.png" />
     <Content Include="game-media\die.mp3" />
+    <Content Include="game-media\dragon.png" />
     <Content Include="game-media\enemies.png" />
     <Content Include="game-media\failure.mp3" />
     <Content Include="game-media\font.png" />
@@ -75,10 +76,12 @@
     <Content Include="game-media\particles.png" />
     <Content Include="game-media\pickup.mp3" />
     <Content Include="game-media\player.png" />
+    <Content Include="game-media\pterodactyl.png" />
     <Content Include="game-media\success.mp3" />
     <Content Include="game-media\swish.mp3" />
     <Content Include="game-media\tiles.png" />
     <Content Include="game-media\titlescreen.png" />
+    <Content Include="game-media\trex.png" />
     <Content Include="images\badge.scale-100.png" />
     <Content Include="images\badge.scale-140.png" />
     <Content Include="images\badge.scale-180.png" />

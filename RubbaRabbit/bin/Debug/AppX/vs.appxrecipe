@@ -20,7 +20,7 @@
     <AppXManifest Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-02-11T20:35:55.064</Modified>
+      <Modified>2015-03-09T20:01:44.689</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -42,7 +42,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\music.mp3">
       <PackagePath>game-media\music.mp3</PackagePath>
-      <Modified>2014-12-08T16:56:44.296</Modified>
+      <Modified>2015-03-18T19:54:09.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\pickup.mp3">
       <PackagePath>game-media\pickup.mp3</PackagePath>
@@ -72,6 +72,10 @@
       <PackagePath>game-media\button-up.png</PackagePath>
       <Modified>2014-12-08T16:56:42.656</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\dragon.png">
+      <PackagePath>game-media\dragon.png</PackagePath>
+      <Modified>2015-02-16T20:43:30.614</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\enemies.png">
       <PackagePath>game-media\enemies.png</PackagePath>
       <Modified>2014-12-08T16:56:42.749</Modified>
@@ -100,6 +104,10 @@
       <PackagePath>game-media\player.png</PackagePath>
       <Modified>2015-02-16T20:16:32.690</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\pterodactyl.png">
+      <PackagePath>game-media\pterodactyl.png</PackagePath>
+      <Modified>2015-03-09T19:56:03.341</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\tiles.png">
       <PackagePath>game-media\tiles.png</PackagePath>
       <Modified>2014-12-08T16:56:44.781</Modified>
@@ -107,6 +115,10 @@
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\titlescreen.png">
       <PackagePath>game-media\titlescreen.png</PackagePath>
       <Modified>2014-12-08T16:56:44.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\trex.png">
+      <PackagePath>game-media\trex.png</PackagePath>
+      <Modified>2015-03-09T17:59:43.108</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\images\badge.scale-100.png">
       <PackagePath>images\badge.scale-100.png</PackagePath>
@@ -444,19 +456,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\level1.js">
       <PackagePath>game-media\level1.js</PackagePath>
-      <Modified>2015-03-02T19:35:31.534</Modified>
+      <Modified>2015-03-18T20:59:08.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\level2.js">
       <PackagePath>game-media\level2.js</PackagePath>
-      <Modified>2015-03-02T19:35:31.585</Modified>
+      <Modified>2015-03-18T20:59:08.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\level3.js">
       <PackagePath>game-media\level3.js</PackagePath>
-      <Modified>2015-03-02T19:35:31.801</Modified>
+      <Modified>2015-03-18T20:59:08.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\game-media\level4.js">
       <PackagePath>game-media\level4.js</PackagePath>
-      <Modified>2015-03-02T19:35:31.849</Modified>
+      <Modified>2015-03-18T20:59:08.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\js\default.js">
       <PackagePath>js\default.js</PackagePath>
@@ -464,7 +476,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\js\ludus.js">
       <PackagePath>js\ludus.js</PackagePath>
-      <Modified>2015-03-02T19:34:28.383</Modified>
+      <Modified>2015-03-09T20:12:11.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\js\howler.js">
       <PackagePath>js\howler.js</PackagePath>
@@ -472,7 +484,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\js\jaws.js">
       <PackagePath>js\jaws.js</PackagePath>
-      <Modified>2014-12-08T16:56:47.718</Modified>
+      <Modified>2015-03-02T21:53:48.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\js\tween.js">
       <PackagePath>js\tween.js</PackagePath>
@@ -488,7 +500,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Seth\Documents\GitHub\RubbaRabbit\RubbaRabbit\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-02-11T20:35:54.738</Modified>
+      <Modified>2015-03-09T20:01:44.143</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

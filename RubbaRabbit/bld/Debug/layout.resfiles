@@ -5,6 +5,7 @@ game-media\button-pause.png
 game-media\button-right.png
 game-media\button-up.png
 game-media\die.mp3
+game-media\dragon.png
 game-media\enemies.png
 game-media\failure.mp3
 game-media\font.png
@@ -20,10 +21,12 @@ game-media\parallax.png
 game-media\particles.png
 game-media\pickup.mp3
 game-media\player.png
+game-media\pterodactyl.png
 game-media\success.mp3
 game-media\swish.mp3
 game-media\tiles.png
 game-media\titlescreen.png
+game-media\trex.png
 images\badge.scale-100.png
 images\badge.scale-140.png
 images\badge.scale-180.png
